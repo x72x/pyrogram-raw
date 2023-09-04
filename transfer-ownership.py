@@ -22,7 +22,7 @@ async def main():
         print("This chat_id not for channel/supergroup")
         return False
     if not isinstance(peer_user, raw.types.InputPeerUser):
-        print("This user_id not for channel/supergroup")
+        print("This user_id not for user")
         return False
     i: "Password" = await app.invoke(GetPassword())
     if not i.has_password:
