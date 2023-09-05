@@ -4,6 +4,8 @@
 # account
 ## [account.ReportPeer](https://docs.pyrogram.org/telegram/functions/account/report-peer) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/report-peer.py)
 ## [account.DeleteAccount](https://docs.pyrogram.org/telegram/functions/account/delete-account) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/delete-account.py)
+## [account.SetPrivacy](https://docs.pyrogram.org/telegram/functions/account/set-privacy) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/set-privacy.py)
+
 
 # channels
 ## [channels.EditCreator](https://docs.pyrogram.org/telegram/functions/channels/edit-creator) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/transfer-ownership.py)
