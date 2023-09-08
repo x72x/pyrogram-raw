@@ -1,6 +1,10 @@
 # pyrogram-raw
 ## Pyrogram raw functions examples, https://docs.pyrogram.org/telegram/functions/
 
+# messages
+## [messages.TranscribeAudio](https://docs.pyrogram.org/telegram/functions/messages/transcribe-audio) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/transcribe-audio.py)
+
+
 # account
 ## [account.ReportPeer](https://docs.pyrogram.org/telegram/functions/account/report-peer) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/report-peer.py)
 ## [account.DeleteAccount](https://docs.pyrogram.org/telegram/functions/account/delete-account) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/delete-account.py)
