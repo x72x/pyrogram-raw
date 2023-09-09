@@ -16,7 +16,7 @@ async def main():
     peer = await app.resolve_peer(chat_id)
     meesage_id = 319522
 
-    res:" raw.types.messages.TranscribedAudio" = await app.invoke(
+    res:"raw.types.messages.TranscribedAudio" = await app.invoke(
         TranscribeAudio(
             peer=peer,
             msg_id=meesage_id
