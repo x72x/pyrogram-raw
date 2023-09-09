@@ -26,7 +26,7 @@ async def main():
 
     while res.pending:
         await asyncio.sleep(5)
-        res:" raw.types.messages.TranscribedAudio" = await app.invoke(
+        res:"raw.types.messages.TranscribedAudio" = await app.invoke(
             TranscribeAudio(
                 peer=peer,
                 msg_id=meesage_id
