@@ -3,6 +3,7 @@
 
 # messages
 ## [messages.TranscribeAudio](https://docs.pyrogram.org/telegram/functions/messages/transcribe-audio) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/transcribe-audio.py)
+## [messages.TranslateText](https://docs.pyrogram.org/telegram/functions/messages/translate-text) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/translate-text.py)
 
 
 # account
