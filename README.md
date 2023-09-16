@@ -4,7 +4,7 @@
 # messages
 ## [messages.TranscribeAudio](https://docs.pyrogram.org/telegram/functions/messages/transcribe-audio) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/transcribe-audio.py)
 ## [messages.TranslateText](https://docs.pyrogram.org/telegram/functions/messages/translate-text) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/translate-text.py)
-
+## [messages.Report](https://docs.pyrogram.org/telegram/functions/messages/report) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/report-messages.py)
 
 # account
 ## [account.ReportPeer](https://docs.pyrogram.org/telegram/functions/account/report-peer) -> [Click Here](https://github.com/x72x/pyrogram-raw/blob/main/report-peer.py)
